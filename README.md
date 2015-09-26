@@ -1,2 +1,3 @@
-# Library Web Portal Design and Development Framework
-Library's portal Information Architecture & FrontEnd FrameWork strategy
+#Web Portal Design and Development Framework
+ Information Architecture 
+ FrontEnd FrameWork strategy
